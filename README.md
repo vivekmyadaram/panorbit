@@ -1,1 +1,3 @@
-# panorbit
+npm install
+
+npm run dev
